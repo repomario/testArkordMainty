@@ -1,25 +1,22 @@
 ---
-{
-  "nodeId": "in-app-operational-notifications",
-  "nodeType": "FEATURE",
-  "title": "In-App Operational Notifications",
-  "status": "PROPOSED",
-  "summary": "Evidenziazione nell’applicazione di eventi operativi importanti.",
-  "relations": {
-    "updatedBy": [],
-    "governedBy": [
-      "responsive-role-oriented-web-ui",
-      "relational-persistence",
-      "honest-operation-failure-feedback"
-    ],
-    "relatedTo": []
-  },
-  "metadata": {
-    "revision": 1,
-    "createdDuring": "PHASE-1-1-PROJECT-INITIALIZATION",
-    "lastUpdated": "2026-08-29T00:00:00Z"
-  }
-}
+nodeId: in-app-operational-notifications
+nodeType: FEATURE
+title: In-App Operational Notifications
+status: REJECTED
+summary: Evidenziazione nell’applicazione di eventi operativi importanti.
+relations:
+  updatedBy: [
+    ]
+  governedBy:
+  - responsive-role-oriented-web-ui
+  - relational-persistence
+  - honest-operation-failure-feedback
+  relatedTo: [
+    ]
+metadata:
+  revision: 1
+  createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
+  lastUpdated: '2026-08-29T00:00:00Z'
 ---
 
 # In-App Operational Notifications

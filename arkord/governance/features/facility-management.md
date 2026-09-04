@@ -1,27 +1,24 @@
 ---
-{
-  "nodeId": "facility-management",
-  "nodeType": "FEATURE",
-  "title": "Facility Management",
-  "status": "PROPOSED",
-  "summary": "Gestione delle strutture fisiche dell’organizzazione.",
-  "relations": {
-    "updatedBy": [],
-    "governedBy": [
-      "historical-data-preservation",
-      "asset-facility-relationship",
-      "responsive-role-oriented-web-ui",
-      "relational-persistence",
-      "honest-operation-failure-feedback"
-    ],
-    "relatedTo": []
-  },
-  "metadata": {
-    "revision": 1,
-    "createdDuring": "PHASE-1-1-PROJECT-INITIALIZATION",
-    "lastUpdated": "2026-08-29T00:00:00Z"
-  }
-}
+nodeId: facility-management
+nodeType: FEATURE
+title: Facility Management
+status: APPROVED
+summary: Gestione delle strutture fisiche dell’organizzazione.
+relations:
+  updatedBy: [
+    ]
+  governedBy:
+  - historical-data-preservation
+  - asset-facility-relationship
+  - responsive-role-oriented-web-ui
+  - relational-persistence
+  - honest-operation-failure-feedback
+  relatedTo: [
+    ]
+metadata:
+  revision: 1
+  createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
+  lastUpdated: '2026-08-29T00:00:00Z'
 ---
 
 # Facility Management

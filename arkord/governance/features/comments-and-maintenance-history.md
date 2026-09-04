@@ -1,30 +1,27 @@
 ---
-{
-  "nodeId": "comments-and-maintenance-history",
-  "nodeType": "FEATURE",
-  "title": "Comments and Maintenance History",
-  "status": "PROPOSED",
-  "summary": "Consultazione e registrazione della storia operativa.",
-  "relations": {
-    "updatedBy": [],
-    "governedBy": [
-      "historical-data-preservation",
-      "work-completion-record",
-      "work-order-activity-traceability",
-      "responsive-role-oriented-web-ui",
-      "relational-persistence",
-      "transactional-consistency-of-critical-operations",
-      "honest-operation-failure-feedback",
-      "large-list-data-access"
-    ],
-    "relatedTo": []
-  },
-  "metadata": {
-    "revision": 1,
-    "createdDuring": "PHASE-1-1-PROJECT-INITIALIZATION",
-    "lastUpdated": "2026-08-29T00:00:00Z"
-  }
-}
+nodeId: comments-and-maintenance-history
+nodeType: FEATURE
+title: Comments and Maintenance History
+status: APPROVED
+summary: Consultazione e registrazione della storia operativa.
+relations:
+  updatedBy: [
+    ]
+  governedBy:
+  - historical-data-preservation
+  - work-completion-record
+  - work-order-activity-traceability
+  - responsive-role-oriented-web-ui
+  - relational-persistence
+  - transactional-consistency-of-critical-operations
+  - honest-operation-failure-feedback
+  - large-list-data-access
+  relatedTo: [
+    ]
+metadata:
+  revision: 1
+  createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
+  lastUpdated: '2026-08-29T00:00:00Z'
 ---
 
 # Comments and Maintenance History

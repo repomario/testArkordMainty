@@ -63,3 +63,8 @@ Unresolved.
 ## Changelog
 
 - Revision 1: Initial Phase 1.1 materialization.
+
+## Reasoning Readiness
+
+NEEDS_MORE_REASONING
+

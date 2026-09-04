@@ -14,3 +14,7 @@ Influenza validazione, sicurezza, storage, trasferimento e retention.
 Proposed Solution:
 Definire formati supportati, dimensione massima, quantità massima e retention.
 
+### Human Owner
+
+solo pdf max 2mb 1 file no retention
+

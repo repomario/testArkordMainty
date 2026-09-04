@@ -1,28 +1,25 @@
 ---
-{
-  "nodeId": "asset-management",
-  "nodeType": "FEATURE",
-  "title": "Asset Management",
-  "status": "PROPOSED",
-  "summary": "Gestione degli asset fisici soggetti a manutenzione.",
-  "relations": {
-    "updatedBy": [],
-    "governedBy": [
-      "historical-data-preservation",
-      "asset-facility-relationship",
-      "responsive-role-oriented-web-ui",
-      "relational-persistence",
-      "transactional-consistency-of-critical-operations",
-      "honest-operation-failure-feedback"
-    ],
-    "relatedTo": []
-  },
-  "metadata": {
-    "revision": 1,
-    "createdDuring": "PHASE-1-1-PROJECT-INITIALIZATION",
-    "lastUpdated": "2026-08-29T00:00:00Z"
-  }
-}
+nodeId: asset-management
+nodeType: FEATURE
+title: Asset Management
+status: APPROVED
+summary: Gestione degli asset fisici soggetti a manutenzione.
+relations:
+  updatedBy: [
+    ]
+  governedBy:
+  - historical-data-preservation
+  - asset-facility-relationship
+  - responsive-role-oriented-web-ui
+  - relational-persistence
+  - transactional-consistency-of-critical-operations
+  - honest-operation-failure-feedback
+  relatedTo: [
+    ]
+metadata:
+  revision: 1
+  createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
+  lastUpdated: '2026-08-29T00:00:00Z'
 ---
 
 # Asset Management

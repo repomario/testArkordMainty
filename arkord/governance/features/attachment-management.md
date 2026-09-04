@@ -1,26 +1,23 @@
 ---
-{
-  "nodeId": "attachment-management",
-  "nodeType": "FEATURE",
-  "title": "Attachment Management",
-  "status": "PROPOSED",
-  "summary": "Gestione delle fotografie associate a segnalazioni e interventi.",
-  "relations": {
-    "updatedBy": [],
-    "governedBy": [
-      "responsive-role-oriented-web-ui",
-      "relational-persistence",
-      "secure-credential-and-upload-handling",
-      "honest-operation-failure-feedback"
-    ],
-    "relatedTo": []
-  },
-  "metadata": {
-    "revision": 1,
-    "createdDuring": "PHASE-1-1-PROJECT-INITIALIZATION",
-    "lastUpdated": "2026-08-29T00:00:00Z"
-  }
-}
+nodeId: attachment-management
+nodeType: FEATURE
+title: Attachment Management
+status: REJECTED
+summary: Gestione delle fotografie associate a segnalazioni e interventi.
+relations:
+  updatedBy: [
+    ]
+  governedBy:
+  - responsive-role-oriented-web-ui
+  - relational-persistence
+  - secure-credential-and-upload-handling
+  - honest-operation-failure-feedback
+  relatedTo: [
+    ]
+metadata:
+  revision: 1
+  createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
+  lastUpdated: '2026-08-29T00:00:00Z'
 ---
 
 # Attachment Management

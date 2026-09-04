@@ -1,27 +1,24 @@
 ---
-{
-  "nodeId": "authentication-and-user-access",
-  "nodeType": "FEATURE",
-  "title": "Authentication and User Access",
-  "status": "PROPOSED",
-  "summary": "Accesso autenticato e gestione dell’identità applicativa.",
-  "relations": {
-    "updatedBy": [],
-    "governedBy": [
-      "backend-authorization-enforcement",
-      "responsive-role-oriented-web-ui",
-      "relational-persistence",
-      "secure-credential-and-upload-handling",
-      "honest-operation-failure-feedback"
-    ],
-    "relatedTo": []
-  },
-  "metadata": {
-    "revision": 1,
-    "createdDuring": "PHASE-1-1-PROJECT-INITIALIZATION",
-    "lastUpdated": "2026-08-29T00:00:00Z"
-  }
-}
+nodeId: authentication-and-user-access
+nodeType: FEATURE
+title: Authentication and User Access
+status: APPROVED
+summary: Accesso autenticato e gestione dell’identità applicativa.
+relations:
+  updatedBy: [
+    ]
+  governedBy:
+  - backend-authorization-enforcement
+  - responsive-role-oriented-web-ui
+  - relational-persistence
+  - secure-credential-and-upload-handling
+  - honest-operation-failure-feedback
+  relatedTo: [
+    ]
+metadata:
+  revision: 1
+  createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
+  lastUpdated: '2026-08-29T00:00:00Z'
 ---
 
 # Authentication and User Access
