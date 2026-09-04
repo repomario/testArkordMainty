@@ -2,11 +2,11 @@
 nodeId: FEATURE-TASK-MANAGEMENT
 nodeType: FEATURE
 title: Task Management
-status: APPROVED
+status: PROPOSED
 summary: Capacità di gestire il ciclo operativo delle attività personali.
 relations:
-  updatedBy: [
-    ]
+  updatedBy:
+  - OPEN-POINT-TARGET-USER-DEFINITION
   relatedTo:
   - SPEC-RELATIONAL-PERSISTENCE
   - SPEC-RESPONSIVE-USER-INTERFACE
@@ -15,7 +15,7 @@ relations:
   - SPEC-REST-COMMUNICATION
   - OPEN-POINT-TARGET-USER-DEFINITION
 metadata:
-  revision: 1
+  revision: 2
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
   lastUpdated: '2026-09-04'
 ---
@@ -24,7 +24,7 @@ metadata:
 
 ## Purpose
 
-Permettere all'utente di mantenere il proprio elenco di attività.
+Permettere all'utente privato di mantenere individualmente il proprio elenco di attività personali, in un contesto non collaborativo.
 
 ## Functional Scope
 
@@ -58,4 +58,5 @@ Futura Delivery relativa alla gestione delle attività, da determinare in Phase 
 
 ## Changelog
 
+- Revisione 2: allineamento al target di utenti privati con uso personale, individuale e non collaborativo.
 - Revisione 1: materializzazione iniziale durante la Phase 1.1.

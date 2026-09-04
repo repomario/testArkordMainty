@@ -4,7 +4,8 @@ nodeType: BLUEPRINT
 title: TaskFlow Lite Blueprint
 summary: Identità, obiettivi, scope e direzione architetturale di TaskFlow Lite.
 relations:
-  updatedBy: []
+  updatedBy:
+    - OPEN-POINT-TARGET-USER-DEFINITION
   relatedTo:
     - FEATURE-TASK-MANAGEMENT
     - FEATURE-TASK-FILTERING
@@ -18,7 +19,7 @@ relations:
     - OPEN-POINT-CLIENT-SERVER-ARCHITECTURE
     - OPEN-POINT-REST-DECISION
 metadata:
-  revision: 1
+  revision: 2
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
   lastUpdated: "2026-09-04"
 ---
@@ -52,7 +53,7 @@ Gestione e visualizzazione persistente delle attività personali.
 
 ## Target Users and Stakeholders
 
-Non specificati. La definizione del target user è preservata in `OPEN-POINT-TARGET-USER-DEFINITION`.
+Utenti privati che utilizzano l'applicazione individualmente per gestire le proprie attività personali, in un contesto non collaborativo.
 
 ## Major Capabilities
 
