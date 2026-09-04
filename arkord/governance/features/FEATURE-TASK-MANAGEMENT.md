@@ -2,21 +2,22 @@
 nodeId: FEATURE-TASK-MANAGEMENT
 nodeType: FEATURE
 title: Task Management
-status: PROPOSED
+status: APPROVED
 summary: Capacità di gestire il ciclo operativo delle attività personali.
 relations:
-  updatedBy: []
+  updatedBy: [
+    ]
   relatedTo:
-    - SPEC-RELATIONAL-PERSISTENCE
-    - SPEC-RESPONSIVE-USER-INTERFACE
-    - SPEC-SIMPLE-USABLE-INTERFACE
-    - SPEC-LOW-INTERACTION-OPERATIONS
-    - SPEC-REST-COMMUNICATION
-    - OPEN-POINT-TARGET-USER-DEFINITION
+  - SPEC-RELATIONAL-PERSISTENCE
+  - SPEC-RESPONSIVE-USER-INTERFACE
+  - SPEC-SIMPLE-USABLE-INTERFACE
+  - SPEC-LOW-INTERACTION-OPERATIONS
+  - SPEC-REST-COMMUNICATION
+  - OPEN-POINT-TARGET-USER-DEFINITION
 metadata:
   revision: 1
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
-  lastUpdated: "2026-09-04"
+  lastUpdated: '2026-09-04'
 ---
 
 # Task Management

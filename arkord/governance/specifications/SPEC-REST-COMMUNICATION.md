@@ -2,21 +2,24 @@
 nodeId: SPEC-REST-COMMUNICATION
 nodeType: SPECIFICATION
 title: REST Communication Constraint
-status: PROPOSED
+status: APPROVED
 summary: Frontend e backend devono comunicare mediante API REST.
 relations:
-  updatedBy: []
+  updatedBy: [
+    ]
   governs:
-    - FEATURE-TASK-MANAGEMENT
-    - FEATURE-TASK-FILTERING
-  supportedBy: []
-  resolves: []
+  - FEATURE-TASK-MANAGEMENT
+  - FEATURE-TASK-FILTERING
+  supportedBy: [
+    ]
+  resolves: [
+    ]
   relatedTo:
-    - OPEN-POINT-REST-DECISION
+  - OPEN-POINT-REST-DECISION
 metadata:
   revision: 1
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
-  lastUpdated: "2026-09-04"
+  lastUpdated: '2026-09-04'
 ---
 
 # REST Communication Constraint

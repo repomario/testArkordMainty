@@ -2,20 +2,24 @@
 nodeId: SPEC-LOW-INTERACTION-OPERATIONS
 nodeType: SPECIFICATION
 title: Low-interaction Primary Operations
-status: PROPOSED
+status: APPROVED
 summary: Le operazioni principali devono essere eseguibili con pochi clic.
 relations:
-  updatedBy: []
+  updatedBy: [
+    ]
   governs:
-    - FEATURE-TASK-MANAGEMENT
-    - FEATURE-TASK-FILTERING
-  supportedBy: []
-  resolves: []
-  relatedTo: []
+  - FEATURE-TASK-MANAGEMENT
+  - FEATURE-TASK-FILTERING
+  supportedBy: [
+    ]
+  resolves: [
+    ]
+  relatedTo: [
+    ]
 metadata:
   revision: 1
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
-  lastUpdated: "2026-09-04"
+  lastUpdated: '2026-09-04'
 ---
 
 # Low-interaction Primary Operations

@@ -2,20 +2,23 @@
 nodeId: SPEC-RELATIONAL-PERSISTENCE
 nodeType: SPECIFICATION
 title: Relational Persistence
-status: PROPOSED
+status: APPROVED
 summary: La persistenza dei dati deve utilizzare un database relazionale.
 relations:
-  updatedBy: []
+  updatedBy: [
+    ]
   governs:
-    - FEATURE-TASK-MANAGEMENT
-  supportedBy: []
-  resolves: []
+  - FEATURE-TASK-MANAGEMENT
+  supportedBy: [
+    ]
+  resolves: [
+    ]
   relatedTo:
-    - OPEN-POINT-RELATIONAL-DATABASE-DECISION
+  - OPEN-POINT-RELATIONAL-DATABASE-DECISION
 metadata:
   revision: 1
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
-  lastUpdated: "2026-09-04"
+  lastUpdated: '2026-09-04'
 ---
 
 # Relational Persistence

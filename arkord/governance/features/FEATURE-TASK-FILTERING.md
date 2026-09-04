@@ -2,21 +2,22 @@
 nodeId: FEATURE-TASK-FILTERING
 nodeType: FEATURE
 title: Task Filtering
-status: PROPOSED
+status: REJECTED
 summary: Capacità di filtrare l'elenco delle attività in base al loro stato.
 relations:
-  updatedBy: []
+  updatedBy: [
+    ]
   relatedTo:
-    - FEATURE-TASK-MANAGEMENT
-    - SPEC-RESPONSIVE-USER-INTERFACE
-    - SPEC-SIMPLE-USABLE-INTERFACE
-    - SPEC-LOW-INTERACTION-OPERATIONS
-    - SPEC-REST-COMMUNICATION
-    - OPEN-POINT-TARGET-USER-DEFINITION
+  - FEATURE-TASK-MANAGEMENT
+  - SPEC-RESPONSIVE-USER-INTERFACE
+  - SPEC-SIMPLE-USABLE-INTERFACE
+  - SPEC-LOW-INTERACTION-OPERATIONS
+  - SPEC-REST-COMMUNICATION
+  - OPEN-POINT-TARGET-USER-DEFINITION
 metadata:
   revision: 1
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
-  lastUpdated: "2026-09-04"
+  lastUpdated: '2026-09-04'
 ---
 
 # Task Filtering

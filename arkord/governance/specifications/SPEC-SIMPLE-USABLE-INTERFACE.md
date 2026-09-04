@@ -2,20 +2,24 @@
 nodeId: SPEC-SIMPLE-USABLE-INTERFACE
 nodeType: SPECIFICATION
 title: Simple and Easily Usable Interface
-status: PROPOSED
+status: APPROVED
 summary: L’interfaccia deve essere semplice e facilmente utilizzabile.
 relations:
-  updatedBy: []
+  updatedBy: [
+    ]
   governs:
-    - FEATURE-TASK-MANAGEMENT
-    - FEATURE-TASK-FILTERING
-  supportedBy: []
-  resolves: []
-  relatedTo: []
+  - FEATURE-TASK-MANAGEMENT
+  - FEATURE-TASK-FILTERING
+  supportedBy: [
+    ]
+  resolves: [
+    ]
+  relatedTo: [
+    ]
 metadata:
   revision: 1
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
-  lastUpdated: "2026-09-04"
+  lastUpdated: '2026-09-04'
 ---
 
 # Simple and Easily Usable Interface

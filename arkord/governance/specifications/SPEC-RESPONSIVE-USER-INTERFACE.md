@@ -2,20 +2,24 @@
 nodeId: SPEC-RESPONSIVE-USER-INTERFACE
 nodeType: SPECIFICATION
 title: Responsive User Interface
-status: PROPOSED
+status: APPROVED
 summary: L’applicazione deve essere responsive.
 relations:
-  updatedBy: []
+  updatedBy: [
+    ]
   governs:
-    - FEATURE-TASK-MANAGEMENT
-    - FEATURE-TASK-FILTERING
-  supportedBy: []
-  resolves: []
-  relatedTo: []
+  - FEATURE-TASK-MANAGEMENT
+  - FEATURE-TASK-FILTERING
+  supportedBy: [
+    ]
+  resolves: [
+    ]
+  relatedTo: [
+    ]
 metadata:
   revision: 1
   createdDuring: PHASE-1-1-PROJECT-INITIALIZATION
-  lastUpdated: "2026-09-04"
+  lastUpdated: '2026-09-04'
 ---
 
 # Responsive User Interface
