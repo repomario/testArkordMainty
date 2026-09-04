@@ -2,7 +2,7 @@
 nodeId: OPEN-POINT-TARGET-USER-DEFINITION
 nodeType: OPEN_POINT
 title: Target User Definition
-status: OPEN
+status: RESOLVED
 summary: Il brief parla genericamente di utenti e attività personali senza definire esplicitamente il target user.
 relations:
   updatedBy: []
@@ -97,5 +97,13 @@ Nessun nuovo impatto tecnico specifico; la definizione è coerente con le esclus
 
 ### Open Questions
 
+## Resolution Review
 
+### BLUEPRINT-TASKFLOW-LITE
+
+Result: REVIEWED
+
+### FEATURE-TASK-MANAGEMENT
+
+Result: APPROVED
 

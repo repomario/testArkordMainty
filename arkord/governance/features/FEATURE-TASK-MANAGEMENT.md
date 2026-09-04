@@ -2,7 +2,7 @@
 nodeId: FEATURE-TASK-MANAGEMENT
 nodeType: FEATURE
 title: Task Management
-status: PROPOSED
+status: APPROVED
 summary: Capacità di gestire il ciclo operativo delle attività personali.
 relations:
   updatedBy:

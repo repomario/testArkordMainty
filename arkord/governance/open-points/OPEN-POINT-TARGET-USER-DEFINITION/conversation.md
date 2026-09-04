@@ -34,3 +34,12 @@ uso personale individuale e non collaborativo
 
 La definizione è ora sufficientemente precisa: il target di TaskFlow Lite è costituito da utenti privati che utilizzano l’applicazione individualmente per gestire attività personali, senza modalità collaborative. Questo è coerente con lo scopo dichiarato di gestione delle attività personali e con l’esclusione della collaborazione e dell’autenticazione. Non emergono ulteriori segmenti da introdurre; in particolare, non c’è motivo di estendere il target all’uso professionale. La definizione può quindi essere formalizzata a livello di Governance senza modificare le capability funzionali già previste.
 
+### Arkord
+
+This Open Point has been resolved.
+
+Applied solution:
+Definire il target user di TaskFlow Lite come utenti privati che utilizzano l’applicazione individualmente per la gestione delle proprie attività personali, in un contesto non collaborativo.
+
+The Reasoning Agent is now closed for this Open Point.
+
