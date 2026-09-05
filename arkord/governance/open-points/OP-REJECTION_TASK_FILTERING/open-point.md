@@ -53,37 +53,41 @@ Not yet determined pending correction of the rejected Governance artifact.
 
 ### Resolution Notes
 
+## Notes
+
+Human Owner rejection reason: voglio rivedere questa soluzione
+
+## Reasoning Readiness
+
+READY_FOR_GOVERNANCE
+
 ## Resolution Proposal
 
 ### Decision
 
-
+Confermare senza modifiche la soluzione originale di Task Filtering.
 
 ### Rationale
 
-
+Il Human Owner ha riesaminato la feature precedentemente rifiutata e ne conferma esplicitamente la soluzione originale.
 
 ### Project Impact
 
-
+La capability di filtraggio resta limitata alle tre categorie originariamente definite: Tutte, Completate e Da completare.
 
 ### Technical Impact
 
-
+Nessun cambiamento funzionale rispetto alla definizione originaria; la futura derivazione tecnica dovrà supportare esclusivamente i tre filtri confermati.
 
 ### Affected Governance
 
-
+- FEATURE-TASK-FILTERING
 
 ### Expected Changes
 
-
+- FEATURE-TASK-FILTERING: riproporre come direzione Governance corrente la definizione originale, senza modifiche funzionali, registrando che il riesame ha confermato i filtri Tutte, Completate e Da completare.
 
 ### Open Questions
 
 
-
-## Notes
-
-Human Owner rejection reason: voglio rivedere questa soluzione
 
