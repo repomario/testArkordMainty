@@ -2,7 +2,7 @@
 nodeId: OP-REJECTION_TASK_FILTERING
 nodeType: OPEN_POINT
 title: "Correct rejected Task Filtering"
-status: OPEN
+status: RESOLVED
 summary: "Governance correction required after Human Owner rejection."
 relations:
   resolvedBy: []
@@ -89,5 +89,9 @@ Nessun cambiamento funzionale rispetto alla definizione originaria; la futura de
 
 ### Open Questions
 
+## Resolution Review
 
+### FEATURE-TASK-FILTERING
+
+Result: APPROVED
 

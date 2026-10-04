@@ -2,7 +2,7 @@
 nodeId: FEATURE-TASK-FILTERING
 nodeType: FEATURE
 title: Task Filtering
-status: PROPOSED
+status: APPROVED
 summary: Capacità di filtrare l'elenco delle attività in base al loro stato.
 relations:
   updatedBy:

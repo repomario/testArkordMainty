@@ -22,3 +22,12 @@ confermo la soluzione originale di questa feature.
 
 Ricevuto. Confermi quindi integralmente la soluzione originale di Task Filtering: filtri esattamente «Tutte», «Completate» e «Da completare», senza ulteriori criteri di filtro. La precedente rejection va quindi interpretata come richiesta di riesame, non come richiesta di modifica della soluzione funzionale.
 
+### Arkord
+
+This Open Point has been resolved.
+
+Applied solution:
+Confermare senza modifiche la soluzione originale di Task Filtering.
+
+The Reasoning Agent is now closed for this Open Point.
+
